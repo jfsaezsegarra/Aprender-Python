@@ -6,17 +6,25 @@ Crea una cadena de texto con el siguiente valor:
 
 > Estoy practicando Python
 
+"Estoy practicando Python"
+
 ## Ejercicio 2
 
 Crea un valor entero, el que quieras, pero que sea entero.
+
+3
 
 ## Ejercicio 3
 
 Crea un valor decimal, el que quieras, pero que tenga al menos dos decimales
 
+1.23
+
 ## Ejercicio 4
 
 Crea un valor booleano, verdadero o falso, tu eliges.
+
+True
 
 ## Ejercicio 5
 
